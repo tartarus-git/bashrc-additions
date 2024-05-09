@@ -1,4 +1,4 @@
-#!/bin/bash
+# This script is meant to be sourced from .bashrc, don't run it by itself. Source it.
 
 # Sets the CURRENT_HOME shell variable, which is used to keep track of the currently saved home.
 CURRENT_HOME=$HOME
